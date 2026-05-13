@@ -3,24 +3,24 @@ A full-stack PHP and MySQL web application designed to connect students with tut
 
 
 Features
-    - Student Features
-    - Create an account and log in
-    - Submit tutoring requests
-    - Select:
-          - Subject
-          - Days of the week
-          - Available times
-    - View submitted tutoring tickets
-    - Search for study groups
-    - Request group study sessions
+- Student Features
+- Create an account and log in
+- Submit tutoring requests
+- Select:
+    - Subject
+    - Days of the week
+    - Available times
+- View submitted tutoring tickets
+- Search for study groups
+- Request group study sessions
 
 Tutor Features
-    - Register as a tutor
-    - Create tutoring subject listings
-    - Set tutoring availability
-    - View open tutoring tickets
-    - Claim tutoring requests
-    - Manage assigned tutoring sessions
+- Register as a tutor
+- Create tutoring subject listings
+- Set tutoring availability
+- View open tutoring tickets
+- Claim tutoring requests
+- Manage assigned tutoring sessions
     
 How It Works
 1. Users create an account and choose whether they want to become a tutor.
