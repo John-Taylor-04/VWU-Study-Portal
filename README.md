@@ -21,29 +21,7 @@ Tutor Features
     - View open tutoring tickets
     - Claim tutoring requests
     - Manage assigned tutoring sessions
-
-The project uses multiple relational database tables:
-
-Table Name	                    Purpose
-individuals	                    Stores student and tutor account information
-student_request	                Stores tutoring requests submitted by students
-tutoring_availability	          Stores tutor schedules and available times
-tutoring_subjects	              Stores tutor subjects and specialties
-Main Pages
-File	                          Purpose
-489Project.html                	Homepage
-SignUp.html/php                	User registration
-Login.html/php	                User authentication
-student_dash.php	              Student dashboard
-tutor_dash.php	                Tutor dashboard
-submit_ticket.html/php	        Tutoring request system
-view_my_tickets.php	            Student ticket viewer
-tickets.php	                    Tutor ticket management
-claimed_tickets.php	            Claimed tutoring sessions
-tutor_subjects.php	            Tutor subject management
-tutor_availability.php	        Tutor scheduling
-Logout.php	                    Session logout system
-
+    
 How It Works
 1. Users create an account and choose whether they want to become a tutor.
 2. Users log in using their generated ID and username.
